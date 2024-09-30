@@ -3,11 +3,15 @@
 
 - 🔭 I’m currently working on [AlphaCorp AI](https://alphacorp.ai/)
 
-- 🌱 I’m currently learning **langgraph, tavily ai**
+- 🌱 I’m currently learning **langgraph**
 
-- 💬 Ask me about **python, gen ai, fastapi**
+- 💬 My stack **Python, FastAPI, Supabase, Linux, AWS**
 
 - 📫 How to reach me **1gnas@pm.me**
+
+- 🤖 AI models I worked with **ChatGPT4o, Claude Opus & Sonnet 3.5, Mistral Large, LLama 3.2, Gemini Pro, Flux-Pro, Stable-Diffusion, and DALL·E 3**
+
+- 📕 I have experience with **LangChain, LangSmith, LangServe, Tavily, OpenAI API, Replicate API, MistralAI API, Gemini API, and AWS Bedrock**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
