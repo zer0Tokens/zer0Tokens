@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [AlphaCorp AI](https://alphacorp.ai/)
 
-- 🌱 I’m currently learning **langgraph**
+- 🌱 I’m currently learning **langgraph**, **ell**
 
 - 💬 My stack **Python, FastAPI, Supabase, Linux, AWS**
 
