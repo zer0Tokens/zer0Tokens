@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ignas Vaitukaitis</h1>
-<h3 align="center">Gen AI Engineer & Integration</h3>
+<h3 align="center">Gen AI Engineer & Integration Specialist</h3>
 
-- 🔭 I’m currently working on [AlphaCorp AI](https://alphacorp.ai/)
+- ⚙️ I build production-ready RAG pipelines and hybrid RAG agents using **LangGraph**, **LlamaIndex**, **LangChain**, and **CrewAI**
 
-- 🌱 I’m currently learning **langgraph**, **ell**
+- ☁️ Cloud-native with experience in **Azure OpenAI**, **AWS Bedrock**, and **Supabase**
 
-- 💬 My stack **Python, FastAPI, Supabase, Linux, AWS**
+- 🧠 Models I've worked with: **GPT-4o**, **Claude Opus & Sonnet 3.5**, **Mistral Large**, **LLama 3.1/3.2**, **Gemini Pro**, **Mixtral**, **Stable Diffusion**, and **DALL·E 3**
 
-- 📫 How to reach me **1gnas@pm.me**
+- 💼 Built end-to-end agent frameworks and multimodal systems using **LangServe**, **LangSmith**, **Tavily**, **OpenAI Assistants API**, **Replicate API**, and **Google Gemini API**
 
-- 🤖 AI models I worked with **ChatGPT4o, Claude Opus & Sonnet 3.5, Mistral Large, LLama 3.2, Gemini Pro, Flux-Pro, Stable-Diffusion, and DALL·E 3**
+- 🧰 My stack: **Python, FastAPI, Linux, Git, Docker, NGINX, Supabase, PostgreSQL, Redis**
 
-- 📕 I have experience with **LangChain, LangSmith, LangServe, Tavily, OpenAI API, Replicate API, MistralAI API, Gemini API, and AWS Bedrock**
+- 📫 Reach me at **1gnas@pm.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,5 +19,35 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://azure.microsoft.com/en-us/products/openai/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://supabase.io/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" alt="supabase" width="40" height="40"/>
+  </a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  </a>
+</p>
