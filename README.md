@@ -5,7 +5,7 @@
 
 - ☁️ Cloud-native with experience in **Azure OpenAI**, **AWS Bedrock**, and **Supabase**
 
-- 🧠 Models I've worked with: **GPT-4o**, **Claude Opus & Sonnet 3.5**, **Mistral Large**, **LLama 3.1/3.2**, **Gemini Pro**, **Mixtral**, **Stable Diffusion**, and **DALL·E 3**
+- 🧠 Models I've worked with: **GPT-4.1**, **Claude Opus & Sonnet 3.5**, **Mistral Large**, **LLama 3.1/3.2**, **Gemini Pro**, **Mixtral**, **Stable Diffusion**, and **DALL·E 3**
 
 - 💼 Built end-to-end agent frameworks and multimodal systems using **LangServe**, **LangSmith**, **Tavily**, **OpenAI Assistants API**, **Replicate API**, and **Google Gemini API**
 
