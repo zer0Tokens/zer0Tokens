@@ -1,53 +1,50 @@
-<h1 align="center">Hi 👋, I'm Ignas Vaitukaitis</h1>
-<h3 align="center">Gen AI Engineer & Integration Specialist</h3>
+# Hey, I'm Ignas 👋
 
-- ⚙️ I build production-ready RAG pipelines and hybrid RAG agents using **LangGraph**, **LlamaIndex**, **LangChain**, and **CrewAI**
+AI Agent Engineer from Lithuania, based in Rio de Janeiro 🇧🇷
 
-- ☁️ Cloud-native with experience in **Azure OpenAI**, **AWS Bedrock**, and **Supabase**
+I build production AI systems — agents that reason, retrieve, and act. My focus is on making LLM-powered applications fast, reliable, and deployable.
 
-- 🧠 Models I've worked with: **GPT-4.1**, **Claude Opus & Sonnet 3.5**, **Mistral Large**, **LLama 3.1/3.2**, **Gemini Pro**, **Mixtral**, **Stable Diffusion**, and **DALL·E 3**
+---
 
-- 💼 Built end-to-end agent frameworks and multimodal systems using **LangServe**, **LangSmith**, **Tavily**, **OpenAI Assistants API**, **Replicate API**, and **Google Gemini API**
+### What I work on
 
-- 🧰 My stack: **Python, FastAPI, Linux, Git, Docker, NGINX, Supabase, PostgreSQL, Redis**
+- **AI Agents** — multi-step autonomous agents using LangGraph, CrewAI, OpenAI Assistants API, and custom orchestration
+- **RAG Systems** — production-grade retrieval pipelines with Milvus, LlamaIndex, LangChain, and hybrid search strategies
+- **LLM Fine-Tuning** — domain-adapted models for healthcare, defense, and enterprise use cases
+- **Voice AI** — conversational voice agents with Hume AI, Telnyx, and real-time STT/TTS pipelines
+- **High-performance APIs** — sub-second RAG in Rust/Actix-web, async Python with FastAPI
 
-- 📫 Reach me at **1gnas@pm.me**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/zer0tokens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zer0tokens" height="30" width="40" /></a>
-</p>
+### Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-us/products/openai/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://supabase.io/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" alt="supabase" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  </a>
+**Languages:** Python · Rust · TypeScript
+
+**AI/ML:** OpenAI API · Claude API · LangGraph · LlamaIndex · LangChain · CrewAI · OpenRouter · Tavily
+
+**Models:** GPT-5.2 · Claude Sonnet/Opus · Gemini · Hugging Face
+
+**Infra:** FastAPI · Actix-web · Docker · NGINX · Linux
+
+**Data:** PostgreSQL · Milvus · Redis
+
+**Cloud:** AWS · Azure
+
+
+### Connect
+
+📫 **[1gnas@pm.me](mailto:1gnas@pm.me)**  
+🔗 **[linkedin.com/in/ignas-vaitukaitis](https://www.linkedin.com/in/ignas-vaitukaitis/)**  
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 </p>
